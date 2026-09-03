@@ -1,9 +1,11 @@
 # FlowWise Irrigation & Automation
 
-Marketing website for a new irrigation company specializing in installing,
-servicing, and selling smart irrigation automation (Wi-Fi controllers, soil
-sensors, smart valves, and leak/flow monitors) for residential and
-commercial properties.
+Marketing website for a new irrigation company focused on **designing**
+custom irrigation systems and **selling** the smart automation that runs
+them (Wi-Fi controllers, soil sensors, smart valves, and leak/flow
+monitors) for residential and commercial properties. Installation and
+repair/maintenance service are offered too, as an additional revenue
+stream rather than the main focus.
 
 ## Structure
 
