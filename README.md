@@ -1,4 +1,4 @@
-# Sheehan Design LLC
+# Sheehan Irrigation Design LLC
 
 Marketing website for a new irrigation company focused on **designing**
 custom irrigation systems and **selling** the smart automation that runs
